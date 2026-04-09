@@ -1,6 +1,9 @@
-<h1 align="center">Yuvraj Verma</h1>
 <p align="center">
-  AI/ML researcher and builder focused on NLP, OCR, computer vision, and educational AI.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,100:f59e0b&text=Yuvraj%20Verma&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20NLP%20%7C%20OCR%20%7C%20Computer%20Vision%20%7C%20Educational%20AI&descAlignY=60" alt="Yuvraj Verma header" />
+</p>
+
+<p align="center">
+  <strong>Building research-driven AI systems that survive contact with the real world.</strong>
 </p>
 
 <p align="center">
@@ -11,55 +14,92 @@
   <a href="mailto:work.yuvrajverma@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Ayodhya%2C%20India-0f766e?style=flat-square" alt="Based in Ayodhya, India" />
+  <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20AI%2FML%20Roles-f59e0b?style=flat-square" alt="Open to research and AI/ML roles" />
+  <img src="https://img.shields.io/badge/Motto-do%20whatever%20it%20takes-1f2937?style=flat-square" alt="Motto" />
+</p>
+
+```yaml
+system_card:
+  role: "AI/ML researcher and builder"
+  education:
+    - "B.Tech, Electronics Engineering, Rajkiya Engineering College, Kannauj"
+    - "Foundation Level, Data Science and Applications, IIT Madras"
+  building_now:
+    - "multimodal subjective answer sheet grading platform"
+    - "OCR evaluation workflows for historical print recognition"
+    - "hybrid RNN-Transformer efficiency experiments"
+  interests:
+    - "NLP and semantic evaluation"
+    - "computer vision pipelines"
+    - "educational AI"
+    - "efficiency engineering"
+```
+
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <h3>About me</h3>
-      <ul>
-        <li>B.Tech in Electronics Engineering at Rajkiya Engineering College, Kannauj</li>
-        <li>Foundation level in Data Science and Applications at IIT Madras</li>
-        <li>Building AI systems that move from research ideas to practical products</li>
-        <li>Interested in efficient sequence modeling, OCR pipelines, semantic evaluation, and real-world ML systems</li>
-        <li>Based in Ayodhya, Uttar Pradesh, India</li>
-      </ul>
+    <td width="64%" valign="top">
+      <h3>Notebook Entry</h3>
+      <p>
+        I like working at the point where research stops being theoretical and starts becoming useful. Most of my work sits across NLP, OCR, computer vision, and educational AI, with a strong bias toward systems that are measurable, practical, and built to handle messy real-world inputs.
+      </p>
+      <p>
+        Right now I am especially interested in semantic evaluation, efficient sequence modeling, multimodal grading systems, and AI products that combine good engineering with rigorous experimentation.
+      </p>
 
-      <h3>Current focus</h3>
+      <h3>Currently In The Lab</h3>
       <ul>
-        <li>Building a multimodal subjective answer sheet grading platform with Streamlit, Next.js, and FastAPI</li>
-        <li>Running OCR experiments for historical print recognition and evaluation workflows</li>
-        <li>Exploring hybrid RNN-Transformer architectures for efficient language modeling under compute constraints</li>
-        <li>Looking for research collaborations, AI/ML roles, and product-building opportunities</li>
+        <li>Building an end-to-end subjective answer sheet grading platform with Streamlit, Next.js, and FastAPI</li>
+        <li>Running OCR baselines and experiments for historical print recognition</li>
+        <li>Exploring efficient language modeling through hybrid recurrent and attention-based architectures</li>
+        <li>Looking for research collaborations, AI/ML roles, and serious product-building opportunities</li>
       </ul>
-
     </td>
-    <td width="38%" valign="top" align="center">
-      <img src="./1687669319658-2.jpeg" alt="Yuvraj Verma" width="220" />
+    <td width="36%" valign="top" align="center">
+      <img src="./1687669319658-2.jpeg" alt="Yuvraj Verma" width="230" />
     </td>
   </tr>
 </table>
 
-### Featured projects
+## Selected Builds
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [auto-subjective-grader](https://github.com/vermayuvraj/auto-subjective-grader) | Multimodal subjective answer sheet grading platform for education workflows | Python, FastAPI, Next.js, Streamlit |
-| [humanai-ocr2-gsoc-2026](https://github.com/vermayuvraj/humanai-ocr2-gsoc-2026) | Historical print OCR baseline, experiments, and full print-set outputs | Python, OCR, evaluation pipelines |
-| [yuvrajverma-portfolio](https://github.com/vermayuvraj/yuvrajverma-portfolio) | Personal website for research, projects, updates, and professional profile | HTML, CSS, JavaScript |
+<p align="center">
+  <a href="https://github.com/vermayuvraj/auto-subjective-grader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vermayuvraj&repo=auto-subjective-grader&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472&icon_color=f59e0b" alt="auto-subjective-grader" />
+  </a>
+  <a href="https://github.com/vermayuvraj/humanai-ocr2-gsoc-2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vermayuvraj&repo=humanai-ocr2-gsoc-2026&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472&icon_color=f59e0b" alt="humanai-ocr2-gsoc-2026" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/vermayuvraj/yuvrajverma-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vermayuvraj&repo=yuvrajverma-portfolio&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472&icon_color=f59e0b" alt="yuvrajverma-portfolio" />
+  </a>
+</p>
 
-### Experience snapshot
+## Work Log
 
-- Machine Learning and Full Stack Intern at Reaching Sky Foundation
-- Machine Learning Intern at BreakOut AI
-- Machine Learning Intern at Codesoft Technologies Pvt. Ltd.
-- Google Student Ambassador and Training & Placement Coordinator
+| Role | Focus |
+| --- | --- |
+| Machine Learning and Full Stack Intern, Reaching Sky Foundation | Multi-label semantic detection, platform reliability, and technical SEO |
+| Machine Learning Intern, BreakOut AI | Query-responsive LLM assistants and structured extraction workflows |
+| Machine Learning Intern, Codesoft Technologies Pvt. Ltd. | Baseline ML pipelines for classification and regression |
+| Google Student Ambassador | Community sessions around Gemini, tooling, and AI adoption |
 
-### Highlights
+## Research Directions
 
-- India AI Impact Buildathon 2026: Top 2% national finalist
-- Research interests across NLP, computer vision, educational AI, and efficiency engineering
-- Certified through programs from DeepLearning.AI, Google Cloud, Neo4j, and Postman
+<details>
+  <summary><strong>Open the research map</strong></summary>
 
-### Tech I use
+- Natural Language Processing: semantic extraction, language modeling, and reasoning-aware systems
+- Educational AI: subjective assessment, grading workflows, and pedagogical tooling
+- Computer Vision: OCR pipelines, detection systems, and evaluation frameworks
+- Efficiency Engineering: architectures designed for memory and compute constraints
+
+</details>
+
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -70,18 +110,40 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### GitHub stats
+## Signal
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vermayuvraj&show_icons=true&hide_border=true&rank_icon=github" alt="Yuvraj Verma GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermayuvraj&layout=compact&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vermayuvraj&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472&icon_color=f59e0b&rank_icon=github" alt="Yuvraj Verma GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermayuvraj&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472" alt="Top languages" />
 </p>
 
-### Connect with me
+## Recognition And Communities
+
+- India AI Impact Buildathon 2026: Top 2% national finalist
+- Google Student Ambassador
+- Training and Placement Coordinator
+- Core Member, Google Student Developer Club, IIT Madras
+- IEEE Student Member
+
+<details>
+  <summary><strong>Certifications</strong></summary>
+
+- Stanford / DeepLearning.AI: Machine Learning Specialization
+- DeepLearning.AI: TensorFlow for AI, ML and DL
+- Google Cloud: Cloud Foundations
+- Neo4j: Certified Professional
+- Postman: API Fundamentals
+- Google: Prompting Essentials
+
+</details>
+
+## Reach Out
 
 - Portfolio: [yuvrajverma.me](https://www.yuvrajverma.me/)
 - LinkedIn: [verma-yuvraj](https://www.linkedin.com/in/verma-yuvraj)
