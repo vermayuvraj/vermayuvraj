@@ -20,72 +20,8 @@
   <img src="https://img.shields.io/badge/Motto-do%20whatever%20it%20takes-1f2937?style=flat-square" alt="Motto" />
 </p>
 
-```yaml
-system_card:
-  role: "AI/ML researcher and builder"
-  education:
-    - "B.Tech, Electronics Engineering, Rajkiya Engineering College, Kannauj"
-    - "Foundation Level, Data Science and Applications, IIT Madras"
-  building_now:
-    - "multimodal subjective answer sheet grading platform"
-    - "OCR evaluation workflows for historical print recognition"
-    - "hybrid RNN-Transformer efficiency experiments"
-  interests:
-    - "NLP and semantic evaluation"
-    - "computer vision pipelines"
-    - "educational AI"
-    - "efficiency engineering"
-```
 
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <h3>Notebook Entry</h3>
-      <p>
-        I like working at the point where research stops being theoretical and starts becoming useful. Most of my work sits across NLP, OCR, computer vision, and educational AI, with a strong bias toward systems that are measurable, practical, and built to handle messy real-world inputs.
-      </p>
-      <p>
-        Right now I am especially interested in semantic evaluation, efficient sequence modeling, multimodal grading systems, and AI products that combine good engineering with rigorous experimentation.
-      </p>
 
-      <h3>Currently In The Lab</h3>
-      <ul>
-        <li>Building an end-to-end subjective answer sheet grading platform with Streamlit, Next.js, and FastAPI</li>
-        <li>Running OCR baselines and experiments for historical print recognition</li>
-        <li>Exploring efficient language modeling through hybrid recurrent and attention-based architectures</li>
-        <li>Looking for research collaborations, AI/ML roles, and serious product-building opportunities</li>
-      </ul>
-    </td>
-    <td width="36%" valign="top" align="center">
-      <img src="./1687669319658-2.jpeg" alt="Yuvraj Verma" width="230" />
-    </td>
-  </tr>
-</table>
-
-## Selected Builds
-
-<p align="center">
-  <a href="https://github.com/vermayuvraj/auto-subjective-grader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vermayuvraj&repo=auto-subjective-grader&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472&icon_color=f59e0b" alt="auto-subjective-grader" />
-  </a>
-  <a href="https://github.com/vermayuvraj/humanai-ocr2-gsoc-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vermayuvraj&repo=humanai-ocr2-gsoc-2026&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472&icon_color=f59e0b" alt="humanai-ocr2-gsoc-2026" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/vermayuvraj/yuvrajverma-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vermayuvraj&repo=yuvrajverma-portfolio&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472&icon_color=f59e0b" alt="yuvrajverma-portfolio" />
-  </a>
-</p>
-
-## Work Log
-
-| Role | Focus |
-| --- | --- |
-| Machine Learning and Full Stack Intern, Reaching Sky Foundation | Multi-label semantic detection, platform reliability, and technical SEO |
-| Machine Learning Intern, BreakOut AI | Query-responsive LLM assistants and structured extraction workflows |
-| Machine Learning Intern, Codesoft Technologies Pvt. Ltd. | Baseline ML pipelines for classification and regression |
-| Google Student Ambassador | Community sessions around Gemini, tooling, and AI adoption |
 
 ## Research Directions
 
