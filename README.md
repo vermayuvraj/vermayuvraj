@@ -52,12 +52,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Signal
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vermayuvraj&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472&icon_color=f59e0b&rank_icon=github" alt="Yuvraj Verma GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermayuvraj&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=5b6472" alt="Top languages" />
-</p>
 
 ## Recognition And Communities
 
