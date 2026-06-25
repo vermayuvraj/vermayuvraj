@@ -11,7 +11,7 @@
   <a href="https://github.com/vermayuvraj">GitHub</a> |
   <a href="https://www.linkedin.com/in/verma-yuvraj">LinkedIn</a> |
   <a href="https://orcid.org/0009-0004-2138-3159">ORCID</a> |
-  <a href="mailto:work.yuvrajverma@gmail.com">Email</a>
+  <a href="mailto:yuvrajverma282004@gmail.com">Email</a>
 </p>
 
 <p align="center">
