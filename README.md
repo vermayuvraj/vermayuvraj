@@ -80,4 +80,4 @@
 - LinkedIn: [verma-yuvraj](https://www.linkedin.com/in/verma-yuvraj)
 - ORCID: [0009-0004-2138-3159](https://orcid.org/0009-0004-2138-3159)
 - YouTube: [@yuvrajverma_uv](https://www.youtube.com/@yuvrajverma_uv)
-- Email: [work.yuvrajverma@gmail.com](mailto:work.yuvrajverma@gmail.com)
+- Email: [yuvrajverma282004@gmail.com](mailto:yuvrajverma282004@gmail.com)
